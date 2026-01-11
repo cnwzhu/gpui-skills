@@ -491,8 +491,6 @@ impl Render for Dropdown {
 }
 ```
 
-```
-
 ## Production Component Patterns
 
 > [!IMPORTANT]
